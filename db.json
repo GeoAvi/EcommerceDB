@@ -1,8 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "products": [
+    { "id": 1, "title":"Kids Chair" ,"price": 699, "imgage":"https://www.ikea.com/in/en/images/products/mammut-childrens-chair-in-outdoor-red__0727924_pe735940_s5.jpg" , "qty": 1, "description":"Plastic Chair for kids"}
+    { "id": 2, "title":"Rocking Chair" ,"price":24990 , "imgage":"https://ii2.pepperfry.com/media/catalog/product/c/o/494x544/colorodo-rocking-chair-in-brown-colour-by-dzyn-furnitures-colorodo-rocking-chair-in-brown-colour-by--keejlo.jpg" , "qty": 1, "description":"Wooden chair for relaxation"}
+    { "id": 3, "title":"Sofa Chair" ,"price": 19999, "imgage":"https://5.imimg.com/data5/ANDROID/Default/2022/4/WC/WM/BY/80466078/product-jpeg-500x500.jpg" , "qty": 1, "description":"Sofa chair perfectly fitting your living room space"}
+    { "id": 4, "title":"Wooden Chair" ,"price": 8099, "imgage":"https://5.imimg.com/data5/QK/KV/MY-18967834/wooden-chair-500x500.jpg" , "qty": 1, "description":""}
+    { "id": 5, "title":"Office Chair" ,"price": 11999 , "imgage":"https://5.imimg.com/data5/SELLER/Default/2020/12/AY/KA/WQ/93351552/office-chair-1000x1000.jpg" , "qty": 1, "description":"Comfortable chair for full day working professionals"}
+    { "id": 6, "title":"Massage Chair" ,"price": 290000, "imgage":"https://img.tatacliq.com/images/i8/658Wx734H/MP000000014003974_658Wx734H_202208012349181.jpeg" , "qty": 1, "description":"With an ergonomic fit and advanced technology, this full body massage chair lets you dive into a world of lavish massage after a stressful day."}
+    { "id": 7, "title":"Bar chair" ,"price":5799 , "imgage":"https://cdn.shopify.com/s/files/1/0099/2867/1291/products/bayernbarstoollightoakfibsbayernbarbsoak03.jpg.8c30dd6999.989xx.jpg?v=1653039525" , "qty": 1, "description":"This comfy bar stool brings you up a notch so you can enjoy a meal with a view at bar height. "}
+    { "id": 8, "title":"" ,"price": , "imgage":"" , "qty": 1, "description":""}
+    { "id": 9, "title":"" ,"price": , "imgage":"" , "qty": 1, "description":""}
+    { "id": 10, "title":"" ,"price": , "imgage":"" , "qty": 1, "description":""}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
