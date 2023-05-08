@@ -1,16 +1,86 @@
 {
   "products": [
-    { "id": 1, "title":"Kids Chair" ,"price": 699, "imgage":"https://www.ikea.com/in/en/images/products/mammut-childrens-chair-in-outdoor-red__0727924_pe735940_s5.jpg" , "qty": 1, "description":"Plastic Chair for kids"}
-    { "id": 2, "title":"Rocking Chair" ,"price":24990 , "imgage":"https://ii2.pepperfry.com/media/catalog/product/c/o/494x544/colorodo-rocking-chair-in-brown-colour-by-dzyn-furnitures-colorodo-rocking-chair-in-brown-colour-by--keejlo.jpg" , "qty": 1, "description":"Wooden chair for relaxation"}
-    { "id": 3, "title":"Sofa Chair" ,"price": 19999, "imgage":"https://5.imimg.com/data5/ANDROID/Default/2022/4/WC/WM/BY/80466078/product-jpeg-500x500.jpg" , "qty": 1, "description":"Sofa chair perfectly fitting your living room space"}
-    { "id": 4, "title":"Wooden Chair" ,"price": 8099, "imgage":"https://5.imimg.com/data5/QK/KV/MY-18967834/wooden-chair-500x500.jpg" , "qty": 1, "description":""}
-    { "id": 5, "title":"Office Chair" ,"price": 11999 , "imgage":"https://5.imimg.com/data5/SELLER/Default/2020/12/AY/KA/WQ/93351552/office-chair-1000x1000.jpg" , "qty": 1, "description":"Comfortable chair for full day working professionals"}
-    { "id": 6, "title":"Massage Chair" ,"price": 290000, "imgage":"https://img.tatacliq.com/images/i8/658Wx734H/MP000000014003974_658Wx734H_202208012349181.jpeg" , "qty": 1, "description":"With an ergonomic fit and advanced technology, this full body massage chair lets you dive into a world of lavish massage after a stressful day."}
-    { "id": 7, "title":"Bar chair" ,"price":5799 , "imgage":"https://cdn.shopify.com/s/files/1/0099/2867/1291/products/bayernbarstoollightoakfibsbayernbarbsoak03.jpg.8c30dd6999.989xx.jpg?v=1653039525" , "qty": 1, "description":"This comfy bar stool brings you up a notch so you can enjoy a meal with a view at bar height. "}
-    { "id": 8, "title":"" ,"price": , "imgage":"" , "qty": 1, "description":""}
-    { "id": 9, "title":"" ,"price": , "imgage":"" , "qty": 1, "description":""}
-    { "id": 10, "title":"" ,"price": , "imgage":"" , "qty": 1, "description":""}
+    { 
+      "id": 1, 
+      "title":"Kids Chair" ,
+      "price": 699, "image":"https://www.ikea.com/in/en/images/products/mammut-childrens-chair-in-outdoor-red__0727924_pe735940_s5.jpg" , 
+      "qty": 0, 
+      "description":"Plastic Chair for kids"
+    },
+    { 
+    "id": 2, 
+    "title":"Rocking Chair" ,
+    "price":24990 , 
+    "image":"https://ii2.pepperfry.com/media/catalog/product/c/o/494x544/colorodo-rocking-chair-in-brown-colour-by-dzyn-furnitures-colorodo-rocking-chair-in-brown-colour-by--keejlo.jpg" , 
+    "qty": 0, 
+    "description":"Wooden chair for relaxation"
+    },
+    { 
+      "id": 3, 
+      "title":"Sofa Chair" ,
+      "price": 19999, 
+      "image":"https://5.imimg.com/data5/ANDROID/Default/2022/4/WC/WM/BY/80466078/product-jpeg-500x500.jpg" , 
+      "qty": 0, 
+      "description":"Sofa chair perfectly fitting your living room space"
+    },
+    { 
+      "id": 4, 
+      "title":"Wooden Chair" ,
+      "price": 8099, 
+      "image":"https://5.imimg.com/data5/QK/KV/MY-18967834/wooden-chair-500x500.jpg" , 
+      "qty": 0, 
+      "description":"Sturdy and comfortable wooden chair"
+    },
+    { 
+      "id": 5, 
+      "title":"Office Chair" ,
+      "price": 11999 , 
+      "image":"https://5.imimg.com/data5/SELLER/Default/2020/12/AY/KA/WQ/93351552/office-chair-1000x1000.jpg" , 
+      "qty": 0, 
+      "description":"Comfortable chair for full day working professionals"
+    },
+    { 
+      "id": 6, 
+      "title":"Massage Chair" ,
+      "price": 290000, 
+      "image":"https://img.tatacliq.com/images/i8/658Wx734H/MP000000014003974_658Wx734H_202208012349181.jpeg" , 
+      "qty": 0, 
+      "description":"With an ergonomic fit and advanced technology, this full body massage chair lets you dive into a world of lavish massage after a stressful day."
+    },
+    { 
+      "id": 7, 
+      "title":"Bar chair" ,
+      "price":5799 , 
+      "image":"https://cdn.shopify.com/s/files/1/0099/2867/1291/products/bayernbarstoollightoakfibsbayernbarbsoak03.jpg.8c30dd6999.989xx.jpg?v=1653039525" , 
+      "qty": 0, 
+      "description":"This comfy bar stool brings you up a notch so you can enjoy a meal with a view at bar height. "
+    },
+    { 
+      "id": 8, 
+      "title":"Bean Bag Chair" ,
+      "price":890, 
+      "image":"https://5.imimg.com/data5/SELLER/Default/2021/12/JX/WJ/GX/6698323/been-bags-1000x1000.jpg" , 
+      "qty": 0, 
+      "description":"Fade resistant Leatherette fabric with superior seam and tear strength"
+    },
+    { 
+      "id": 9, 
+      "title":"Swing Chair" 
+      ,"price":8000 ,
+      "image":"https://5.imimg.com/data5/OI/MH/DA/SELLER-13083028/universal-furniture-outdoor-swing-chair-1000x1000.jpg" ,
+      "qty": 0,
+      "description":""
+    },
+    { 
+      "id": 10, 
+      "title":"Beach Chair" ,
+      "price": 10990, 
+      "image":"https://5.imimg.com/data5/HA/MG/VG/SELLER-62573318/beach-chairs-500x500.jpg" , 
+      "qty": 1, 
+      "description":"SUMMER HOME BEACH PORTABLE BALCONY LEISURE CHAIR BACKREST LAZY."
+    }
   ],
+  
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
